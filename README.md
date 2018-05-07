@@ -15,18 +15,19 @@ https://www.threatminer.org/
 https://analysis.yararules.com/latest
 6. Yara rules<br />
 https://github.com/Yara-Rules
-7. Awseome threat intelligance<br />
-https://github.com/hslatman/awesome-threat-intelligence
+
 
 ### Tools.
 1. Yara.
 http://virustotal.github.io/yara/
 
 
-### Blogs.
+### Blogs / resources.
 1. SANS. <br />
 https://www.sans.org/security-resources/blogs
 2. MITRE. <br />
 https://attack.mitre.org/wiki/Persistence
-
-
+3.The ThreatHunting Project<br />
+https://www.threathunting.net
+4. Awseome threat intelligance<br />
+https://github.com/hslatman/awesome-threat-intelligence
