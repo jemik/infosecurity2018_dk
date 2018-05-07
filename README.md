@@ -23,3 +23,10 @@ https://github.com/hslatman/awesome-threat-intelligence
 http://virustotal.github.io/yara/
 
 
+### Blogs.
+1. SANS. <br />
+https://www.sans.org/security-resources/blogs
+2. MITRE. <br />
+https://attack.mitre.org/wiki/Persistence
+
+
