@@ -29,8 +29,8 @@ https://www.sans.org/security-resources/blogs
 2. MITRE. <br />
 https://attack.mitre.org/wiki/Persistence
 
-3.The ThreatHunting Project <br />
+3. The ThreatHunting Project.  <br />
 https://www.threathunting.net
 
-4. Awseome threat intelligance <br />
+4. Awseome threat intelligance.  <br />
 https://github.com/hslatman/awesome-threat-intelligence
